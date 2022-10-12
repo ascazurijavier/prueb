@@ -1,5 +1,5 @@
 <template>
-<template>	
+
 	<div>
 		<div id="referenciaDesaparecen">
 			<div id="referenciaDesaparecen1">
